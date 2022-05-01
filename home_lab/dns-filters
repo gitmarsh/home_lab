@@ -1,0 +1,26 @@
+#     AdGuard (10.2.9.236)
+10.2.9.248 adguard.lo
+#     Router (10.2.9.1)
+10.2.9.248 router.lo
+#     Media (10.2.9.111)
+10.2.9.248 media.lo
+#     Proxmox (10.2.9.199)
+10.2.9.248 proxmox.lo
+#     Jammibox (10.2.9.102)
+10.2.9.102 jammi.lo
+#     Nextcloud (10.2.9.112)
+10.2.9.248 cloud.lo
+10.2.9.248 ombi.media.lo
+10.2.9.248 sab.media.lo
+10.2.9.248 tv.media.lo
+10.2.9.248 movies.media.lo
+10.2.9.248 docker.media.lo
+10.2.9.248 home.lo
+10.2.9.248 dash.lo
+10.2.9.248 plex.lo
+10.2.9.248 browse.plex.lo
+10.2.9.248 sab.lo
+10.2.9.248 files.lo
+@@||satgt.grafana.com^$important
+||assets.msn.com^$important
+||mobile.events.data.microsoft.com^$important
